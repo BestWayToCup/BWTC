@@ -20,7 +20,7 @@ app.all('/', function(req, res, next) {
 
 //app.use(require('./routes/api'));
 
-app.use('*', require('../dist/index.html'));
+app.use('*', require('./dist/index.html'));
 
 var port = process.env.PORT || 3000;
 
