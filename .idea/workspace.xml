@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65751be0-ce8e-4ee3-aaa4-b0fffea56c23" name="Default" comment="">
+    <list default="true" id="65751be0-ce8e-4ee3-aaa4-b0fffea56c23" name="Default" comment="New">
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\css\bootstrap-light.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\images\bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\images\paperplane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-bg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-bn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-bs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-cs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-cy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-da.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-de.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-el.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-es.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-et.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-fa.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-fi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-fo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-fr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-gl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-gu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-he.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-hr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-hu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-hy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-id.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-is.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-it.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ja.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-kn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ko.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-lt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-lv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ml.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ms.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-my.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-nb.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-nl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-pl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ro.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ru.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-sk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-sl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-sq.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-sr-SR.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-sr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-sv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-th.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-tr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-uk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ur.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-uz.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-vi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.plugin.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BWTC.iws" />
@@ -23,14 +85,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="jquery.countdown.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dist/js/jquery.countdown.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.76376814">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,8 +112,8 @@
       <list>
         <option value="$PROJECT_DIR$/server/routes/api.js" />
         <option value="$PROJECT_DIR$/server.js" />
-        <option value="$PROJECT_DIR$/dist/index.html" />
         <option value="$PROJECT_DIR$/dist/css/style.css" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
       </list>
     </option>
   </component>
@@ -139,7 +199,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -265,14 +325,20 @@
       <option name="project" value="LOCAL" />
       <updated>1518361159807</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New">
+      <created>1518361801339</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1518361801339</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25642672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25642672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32795697" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -372,27 +438,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-30.73077">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.76376814">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44283646">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/js/jquery.countdown.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
