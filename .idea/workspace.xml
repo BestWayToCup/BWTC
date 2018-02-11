@@ -1,69 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65751be0-ce8e-4ee3-aaa4-b0fffea56c23" name="Default" comment="New">
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\css\bootstrap-light.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\images\bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\images\paperplane.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ar.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-bg.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-bn.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-bs.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-cs.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-cy.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-da.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-de.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-el.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-es.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-et.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-fa.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-fi.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-fo.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-fr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-gl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-gu.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-he.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-hr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-hu.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-hy.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-id.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-is.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-it.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ja.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-kn.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ko.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-lt.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-lv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ml.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ms.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-my.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-nb.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-nl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-pl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-pt-BR.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ro.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ru.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-sk.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-sl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-sq.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-sr-SR.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-sr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-sv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-th.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-tr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-uk.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-ur.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-uz.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-vi.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-zh-CN.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown-zh-TW.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.countdown.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Валерий\gitHub\BWTC\dist\js\jquery.plugin.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
+    <list default="true" id="65751be0-ce8e-4ee3-aaa4-b0fffea56c23" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BWTC.iws" />
@@ -210,7 +148,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workshop" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -331,7 +269,13 @@
       <option name="project" value="LOCAL" />
       <updated>1518361801339</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New">
+      <created>1518361943059</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1518361943059</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
