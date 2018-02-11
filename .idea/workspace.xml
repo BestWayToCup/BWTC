@@ -27,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5826087">
-              <caret line="63" column="56" selection-start-line="63" selection-start-column="56" selection-end-line="63" selection-end-column="56" />
+            <state vertical-scroll-proportion="1.0594203">
+              <caret line="43" column="45" selection-start-line="29" selection-start-column="8" selection-end-line="43" selection-end-column="45" />
               <folding>
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -313,7 +313,13 @@
       <option name="project" value="LOCAL" />
       <updated>1518363382950</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="New">
+      <created>1518363464210</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1518363464210</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -436,8 +442,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5826087">
-          <caret line="63" column="56" selection-start-line="63" selection-start-column="56" selection-end-line="63" selection-end-column="56" />
+        <state vertical-scroll-proportion="1.0594203">
+          <caret line="43" column="45" selection-start-line="29" selection-start-column="8" selection-end-line="43" selection-end-column="45" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
